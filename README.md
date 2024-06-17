@@ -11,7 +11,7 @@
   1. Open the src/App.jsx file
   2. Remove the existing JSX from the component
   3. Create a level-one heading that says "Todo List"
-  4. Create an unordered list '(<ul>)'
+  4. Create an unordered list (ul)
 
 ## Lists in React
   1. Above the App() function, create an empty Array and store it in a variable named todoList

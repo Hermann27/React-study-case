@@ -7,13 +7,13 @@
 
 # Create the beginnings of the todo list
 
-# React Components and JSX
+## React Components and JSX
   1. Open the src/App.jsx file
   2. Remove the existing JSX from the component
   3. Create a level-one heading that says "Todo List"
   4. Create an unordered list (<ul>)
 
-# Lists in React
+## Lists in React
   1. Above the App() function, create an empty Array and store it in a variable named todoList
   2. Inside the Array, create at least 3 Objects with the following properties:
       id: unique identifier (ex. 1, 2, 3)
